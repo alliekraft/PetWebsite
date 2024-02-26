@@ -1,4 +1,4 @@
-<h1>Website Prototype - Taniti Island</h1>
+<h1>Website Prototype - Pet Website</h1>
 
 <h2>Description</h2>
 This project consisted of creating a low fidelity wireframe, and a prototype of a website for a Pet Store looking to update their existing website.
