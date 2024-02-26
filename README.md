@@ -37,14 +37,14 @@ Site Dogs Page  <br/>
 <br />
   
 Site Cats Pages: <br/>
-<img src=""/>
+<img src="https://i.imgur.com/mmk4abw.png"/>
 <br />
-<img src=""/>
+<img src="https://i.imgur.com/HK1p3yQ.png"/>
 <br />
 <br />
   
 Site Birds Page: <br/>
-<img src=""/>
+<img src="https://i.imgur.com/3erR1dI.png"/>
 </p>
 
 <!--
